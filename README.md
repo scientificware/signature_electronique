@@ -55,7 +55,7 @@ Le règlement structure la robustesse des systèmes d'identification selon 3 niv
 
 # Signature de documents PDF avec l'EUDI Wallet (France Identité)
 
-**Oui, vous pouvez signer des documents PDF** avec cette technologie. C'est l'une des fonctionnalités majeures apportées par le cadre réglementaire européen de l'EUDI Wallet. 
+**Il est signer des documents PDF** avec cette technologie. C'est l'une des fonctionnalités majeures apportées par le cadre réglementaire européen de l'EUDI Wallet. 
 
 Cependant, **l'application France Identité ne dispose pas d'un bouton "Signer un PDF" directement dans son interface**. Elle sert de clé de sécurité (de "fournisseur d'identité") pour valider votre signature sur des plateformes de signature externes.
 
