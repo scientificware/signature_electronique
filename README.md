@@ -51,7 +51,31 @@ Le règlement structure la robustesse des systèmes d'identification selon 3 niv
 * [Portefeuille européen d'identité numérique - numerique.gouv.fr (DINUM)](https://numerique.gouv.fr/actualites/portefeuille-europeen-identite-numerique-eu-digital-identity-wallets/)
 * [Réglementation Identité & Confiance Numérique - ANSSI](https://cyber.gouv.fr)
 * [Niveaux de garantie eIDAS - FranceConnect](https://franceconnect.gouv.fr)
-Utilisez le code
- avec précaution.
 
+
+# Signature de documents PDF avec l'EUDI Wallet (France Identité)
+
+**Oui, vous pouvez signer des documents PDF** avec cette technologie. C'est l'une des fonctionnalités majeures apportées par le cadre réglementaire européen de l'EUDI Wallet. 
+
+Cependant, **l'application France Identité ne dispose pas d'un bouton "Signer un PDF" directement dans son interface**. Elle sert de clé de sécurité (de "fournisseur d'identité") pour valider votre signature sur des plateformes de signature externes.
+
+---
+
+### 1. Valeur juridique de la signature
+En associant votre application France Identité (liée à votre nouvelle carte d'identité) à une plateforme de signature, vous générez une **Signature Électronique Qualifiée (SEQ)** :
+* Il s'agit du niveau de sécurité le plus élevé de la réglementation européenne eIDAS.
+* Elle possède la **même valeur juridique qu’une signature manuscrite**.
+* Le document PDF signé devient infalsifiable et est légalement contraignant dans toute l'Union européenne.
+
+### 2. Procédure pour signer un PDF
+Pour signer votre document, vous devez passer par un site tiers ou un prestataire de services de confiance (comme *Goodflag*, *Namirial*, *DocuSign*, etc.) qui intègre l'écosystème France Identité / EUDI Wallet.
+
+1. **Téléversez** votre document PDF sur la plateforme de signature choisie.
+2. Au moment de signer, sélectionnez l'option d'authentification par **France Identité** ou **FranceConnect+**.
+3. **Ouvrez la notification** qui apparaît sur votre smartphone.
+4. **Validez l'action** dans votre application France Identité en saisissant votre code personnel et en scannant votre carte d'identité en NFC au dos du téléphone.
+5. Votre PDF est instantanément **signé et certifié**.
+Utilisez le code avec précaution.
+Souhaitez-vous que je génère ce contenu sous la forme d'un fichier Markdown (.md) téléchargeable, ou préférez-vous obtenir des exemples de plateformes de signature compati
+bles ?
 
